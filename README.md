@@ -3,6 +3,9 @@ Welcome to the AWS CodeStar sample web application
 
 This sample code helps get you started with a simple Node.js web service deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.
 
+App Entry Point:
+https://9r8ffx7qva.execute-api.us-east-1.amazonaws.com/Prod/
+
 What's Here
 -----------
 
@@ -40,3 +43,5 @@ AWS CodeStar User Guide:
 http://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
 
 AWS CodeStar Forum: https://forums.aws.amazon.com/forum.jspa?forumID=248
+
+// last edited by JC, 072918
